@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import { setAlert } from "../../actions/alert";
 import { register } from "../../actions/auth";
 import { Link } from "react-router-dom";
-import propTypes from "prop-types";
+import PropTypes from "prop-types";
 
 const Register = ({ setAlert, register }) => {
   const [formData, setFormData] = useState({
@@ -110,8 +110,8 @@ const Register = ({ setAlert, register }) => {
 };
 
 Register.propTypes = {
-  setAlert: propTypes.func.isRequired,
-  register: propTypes.func.isRequired,
+  setAlert: PropTypes.func.isRequired,
+  register: PropTypes.func.isRequired,
 };
 
 export default connect(null, { setAlert, register })(Register);
