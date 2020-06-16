@@ -11,3 +11,7 @@ DevHub is a social networking web application built on a MERN stack. It connects
 ## Screenshot
 
 ![Devhub](https://i.ibb.co/vmzRrcr/screenshot.jpg "Devhub")
+
+![Dashboard](https://i.ibb.co/PZ10SVV/dashboard.jpg "Dashboard")
+
+
