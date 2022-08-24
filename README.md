@@ -1,6 +1,9 @@
 # DevHub
 DevHub is a social networking web application built on a MERN stack. It connects programmers/developers together and allow them to share their ideas and git repositories.
 
+## Live website
+https://desolate-fjord-41241.herokuapp.com/
+
 ## Functionalities
 - Login System
 - Create profile
