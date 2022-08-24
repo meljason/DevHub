@@ -1,6 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://jason123:jason123@devconnector-zbhne.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://jason123:jason123@throwback.zbhne.mongodb.net/?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken",
-  "githubClientId": "11484cb0855002fb1cd8",
-  "githubSecret": "be32312e4a76d39f96203036f86ac54280ebe074"
+  "githubToken": "0478129dd0e40490a74492fd4d4f56bc49d95f9d"
 }
